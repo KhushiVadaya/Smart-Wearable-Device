@@ -1,0 +1,12 @@
+train: train/images
+val: valid/images
+test: test/images
+nc: 7
+names:
+  - artwork
+  - bed
+  - lamp
+  - night stand
+  - plant
+  - sofa
+  - wall mirror
