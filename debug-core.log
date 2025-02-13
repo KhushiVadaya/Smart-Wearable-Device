@@ -1,0 +1,9 @@
+{"time":"2024-10-09T11:08:01.533633884Z","level":"INFO","msg":"started logging, with flags","port-filename":"/tmp/tmp8n11m1_i/port-30.txt","pid":30,"debug":false,"disable-analytics":false}
+{"time":"2024-10-09T11:08:01.533676626Z","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-10-09T11:08:01.543898596Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":30}
+{"time":"2024-10-09T11:08:01.544828677Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":43957,"Zone":""}}
+{"time":"2024-10-09T11:08:01.588889895Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:55786"}
+{"time":"2024-10-09T11:10:17.900110432Z","level":"INFO","msg":"handleInformInit: received","streamId":"ccr1h11l","id":"127.0.0.1:55786"}
+{"time":"2024-10-09T11:10:19.905694264Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"ccr1h11l","id":"127.0.0.1:55786"}
+{"time":"2024-10-09T12:44:49.466741615Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"ccr1h11l","id":"127.0.0.1:55786"}
+{"time":"2024-10-09T12:44:49.467030568Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"ccr1h11l","id":"127.0.0.1:55786"}
