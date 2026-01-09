@@ -20,6 +20,8 @@ This project aims to address these challenges using AI + IoT technologies.
 🌐 IoT-based Monitoring
 ☁️ Cloud Integration with ThingSpeak
 ⚡ Low Latency & Fast Response
+# Activity Diagram
+<img width="940" height="789" alt="image" src="https://github.com/user-attachments/assets/c856c6d5-0215-4e4d-8d53-cff1a34e4167" />
 
 # 🛠️ Technologies Used
 Hardware
@@ -45,6 +47,8 @@ ESP32 processes sensor inputs
 Buzzer provides audio alerts based on obstacle distance
 YOLOv8 detects objects in real time
 Sensor data is sent to ThingSpeak via Wi-Fi
+<img width="946" height="616" alt="image" src="https://github.com/user-attachments/assets/6add9f79-2394-4cbc-be68-1dc884a8c7d9" />
+
 
 # 🤖 Object Detection Model (YOLOv8)
 Why YOLO?
@@ -72,6 +76,7 @@ Testing: 7%
 | Python Version   | 3.10.12 |
 | GPU Acceleration | CUDA    |
 
+<img width="959" height="756" alt="image" src="https://github.com/user-attachments/assets/0cdc33a6-efd2-43b7-91bf-54f26fa8a208" />
 
 # 📊 Experimental Results
 | Metric       | Value   |
@@ -82,6 +87,7 @@ Testing: 7%
 | mAP@50–95    | 0.55    |
 | Accuracy     | 77%     |
 
+<img width="948" height="469" alt="image" src="https://github.com/user-attachments/assets/b562658d-b1d4-4ca8-abba-12c259588eba" />
 
 # 📉 Performance Analysis
 Confusion Matrix used for evaluation
